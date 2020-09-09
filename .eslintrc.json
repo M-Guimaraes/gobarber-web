@@ -19,9 +19,13 @@
     "prettier/prettier": "error",
     "class-methods-use-this": "off",
     "react/jsx-one-expression-per-line": "off",
+    "react/jsx-props-no-spreading": "off",
+    "react/jsx-props-types": "off",
     "react-hooks/rules-of-hooks": "error",
+    "import/prefer-default-export": "off",
     "react-hooks/exhaustive-deps": "warn",
     "ract/jsx-filename-extension": "off",
+    "no-unused-expressions": "off",
     "camelcase":"off",
     "@typescript-eslint/no-unused-vars": "off",
     "import/extensions": "off"
