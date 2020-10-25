@@ -43,7 +43,7 @@ export const AnimationContainer = styled.div`
   animation: ${appearFromLeft} 1s;
 
   form {
-    margin: 80px 0;
+    margin: 80px 0 30px 0;
     width: 340px;
     text-align: center;
 
@@ -54,7 +54,7 @@ export const AnimationContainer = styled.div`
     a {
       color: #f4ede8;
       display: block;
-      margin-top: 24px;
+      margin-top: 18px;
       text-decoration: none;
       &:hover {
         color: ${shade(0.2, '#f4ede8')};
